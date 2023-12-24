@@ -1,2 +1,2 @@
 # Proje1
- 1.Proje için küçük bir çiftlik 
+Üretken Akademi 1.Hafta Projesi küçük bir çiftlik
